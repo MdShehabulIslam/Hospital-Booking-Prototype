@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "City Hospital",
+    "services": ["Blood Test", "MRI", "X-Ray"]
+  },
+  {
+    "id": 2,
+    "name": "Green Valley Clinic",
+    "services": ["Ultrasound", "General Checkup"]
+  }
+]

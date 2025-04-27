@@ -1,0 +1,56 @@
+# Node modules (do not push)
+node_modules/
+
+# Next.js build output
+.next/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Output from Docker
+*.log
+
+# JSON database (optional: if you don't want to track data after testing)
+# Uncomment if needed
+# /data/*.json
+
+# Ignore large files accidentally added
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Git LFS (Large File Storage) hints
+*.iso
+*.dmg
+*.exe
+*.dll
+*.so
+*.bin
+*.pdf
+
+# Ignore all files bigger than 100MB (GitHub max limit workaround)
+*.psd
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm

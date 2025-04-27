@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "userEmail": "test@example.com",
+    "hospitalId": 1,
+    "service": "Blood Test",
+    "date": "2025-04-28"
+  },
+  {
+    "id": 2,
+    "userEmail": "test@example.com",
+    "hospitalId": 1,
+    "service": "MRI",
+    "date": "2025-05-01"
+  }
+]
