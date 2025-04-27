@@ -51,7 +51,12 @@ cd Hospital-Booking-Prototype
 npm install
 ```
 
-### 3. Dockerized Environment 
+### 3. Running the Application
+```bash
+npm run dev
+```
+
+### 4. Dockerized Environment 
 ```bash
 docker build -t hospital-booking-prototype
 docker run -p 3000:3000 hospital-booking-prototype
